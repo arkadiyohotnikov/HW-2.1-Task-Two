@@ -65,8 +65,8 @@
                         </constraints>
                     </view>
                     <connections>
-                        <outlet property="RedSignalView" destination="jtL-72-x97" id="re9-su-SKZ"/>
                         <outlet property="greenSignailView" destination="hiz-7G-2gv" id="cbK-iz-w2Z"/>
+                        <outlet property="redSignalView" destination="jtL-72-x97" id="Msd-Hb-fKB"/>
                         <outlet property="startButton" destination="vGz-Bj-C0G" id="t5h-Pe-hc9"/>
                         <outlet property="yellowSignalView" destination="UY9-xt-bD4" id="ipp-TM-pTZ"/>
                     </connections>
